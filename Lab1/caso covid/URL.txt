@@ -1,0 +1,24 @@
+Actividad grupal: Análisis libre de un catálogo de datos
+
+Objetivos de la actividad
+
+Reconocer la estructura de un catálogo de datos.
+Identificar posibles aspectos a analizar en un catálogo de datos.
+Identificar las técnicas apropiadas para un determinado aspecto a analizar.
+Aplicar una o varias técnicas de análisis en un catálogo de datos, con un objetivo de análisis previamente definido.
+Comunicar de forma elocuente los resultados del análisis realizado.
+
+
+Contexto y recursos
+
+Se nos presenta la siguiente situación ficticia: 
+
+La empresa (ficticia) SAN MARCOS Health&Data” ha organizado un concurso público para la adjudicación de un proyecto de ciencia de datos, muy bien dotado económicamente. De acuerdo con las bases del concurso, el proyecto se adjudicará al grupo de 3-4 personas que presente la solución de más calidad a un problema dado, de acuerdo con las condiciones impuestas: 
+
+
+/////////DATOS BASE
+https://data.europa.eu/data/datasets/covid-19-coronavirus-data/?locale=es
+
+
+////////COMPLEMENTO
+https://apps.who.int/gho/data/node.home
